@@ -1,0 +1,36 @@
+{
+    "user" : {
+        "fullName": "Brenda Ngwenya",
+        "photo" : "./images/MySelf.jpeg"
+    },
+    "city" : {
+        "name" : "Cape Town",
+        "photo" : "./images/MyCity.jpg",
+        "description" : "I chose Cape town because it is a paradise full of exquisite scenery, it has beautiful beaches, two oceans (the icyAtlantic and the warmer Indian Ocean). Cape town is the Mother city that is unapologetic natural beauty"
+    },
+    "foreignLanguage" : {
+        "language" : "Portuguese",
+        "phrases" : [{
+            "englishPhrase" : "Good Morning",
+            "foreignLanguage" : "Bom dia"
+        },
+        {
+            "englishPhrase" : "How are you?",
+            "foreignLanguage" : "Como esta?"
+        }]
+    },
+    "favouriteSubjects" : [
+        {
+            "name" : "Process Control",
+            "description" : "Process control is the monitoring of a process to give a desired output, it is used to maintaion quality of a product and improve performance for example a simple process has a certain level of liquid in a tank, the process will be controlled by controlling the inlet flow rate"
+        },
+        {
+            "name" : "Chemical engineering Laboratory",
+            "description" : "These includes the analysis of chemical information, recording experiments details, analysing the data and writing a scientific report"
+        },
+        {
+            "name" : "Process Design",
+            "description" : "Process design is like brainstorming a process by simulating using COCO simulation or ASPEN, this helps to undestand the process proposed and how to improve it"
+        }
+    ]
+}
